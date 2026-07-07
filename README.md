@@ -9,4 +9,4 @@ Calculate how many days ago a specific date was quickly and accurately.
 
 ## Open Calculator
 
-[**Open Days Ago Calculator**](https://datetime.techvindra.com)
+[**Open Days Ago Calculator**](https://datetime.techvindra.com/days-ago/)
